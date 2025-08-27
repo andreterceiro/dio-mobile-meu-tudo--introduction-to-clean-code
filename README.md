@@ -12,9 +12,9 @@
 
 Teacher enforced that is better to have a long name than to have a short but non clear name. Our code needs to be readable be other person. Summary of suggestions passed by the teacher:
 
-![naming rules](images/naming-rules.png)
+![naming rules](images/naming-suggestions.png)
 
 
 # Function Suggestions
 
-![function suggestions](images/function-rules.png)
+![function suggestions](images/function-suggestions.png)
